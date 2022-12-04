@@ -1,0 +1,15 @@
+D:\Projects\AdventOfCode2022\AdventOfCode2022\AdventOfCode2022\bin\Debug\net6.0\AdventOfCode2022.exe
+D:\Projects\AdventOfCode2022\AdventOfCode2022\AdventOfCode2022\bin\Debug\net6.0\AdventOfCode2022.deps.json
+D:\Projects\AdventOfCode2022\AdventOfCode2022\AdventOfCode2022\bin\Debug\net6.0\AdventOfCode2022.runtimeconfig.json
+D:\Projects\AdventOfCode2022\AdventOfCode2022\AdventOfCode2022\bin\Debug\net6.0\AdventOfCode2022.dll
+D:\Projects\AdventOfCode2022\AdventOfCode2022\AdventOfCode2022\bin\Debug\net6.0\AdventOfCode2022.pdb
+D:\Projects\AdventOfCode2022\AdventOfCode2022\AdventOfCode2022\obj\Debug\net6.0\AdventOfCode2022.csproj.AssemblyReference.cache
+D:\Projects\AdventOfCode2022\AdventOfCode2022\AdventOfCode2022\obj\Debug\net6.0\AdventOfCode2022.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\AdventOfCode2022\AdventOfCode2022\AdventOfCode2022\obj\Debug\net6.0\AdventOfCode2022.AssemblyInfoInputs.cache
+D:\Projects\AdventOfCode2022\AdventOfCode2022\AdventOfCode2022\obj\Debug\net6.0\AdventOfCode2022.AssemblyInfo.cs
+D:\Projects\AdventOfCode2022\AdventOfCode2022\AdventOfCode2022\obj\Debug\net6.0\AdventOfCode2022.csproj.CoreCompileInputs.cache
+D:\Projects\AdventOfCode2022\AdventOfCode2022\AdventOfCode2022\obj\Debug\net6.0\AdventOfCode2022.dll
+D:\Projects\AdventOfCode2022\AdventOfCode2022\AdventOfCode2022\obj\Debug\net6.0\refint\AdventOfCode2022.dll
+D:\Projects\AdventOfCode2022\AdventOfCode2022\AdventOfCode2022\obj\Debug\net6.0\AdventOfCode2022.pdb
+D:\Projects\AdventOfCode2022\AdventOfCode2022\AdventOfCode2022\obj\Debug\net6.0\AdventOfCode2022.genruntimeconfig.cache
+D:\Projects\AdventOfCode2022\AdventOfCode2022\AdventOfCode2022\obj\Debug\net6.0\ref\AdventOfCode2022.dll
