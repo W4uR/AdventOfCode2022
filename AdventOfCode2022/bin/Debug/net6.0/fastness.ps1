@@ -1,0 +1,1 @@
+Measure-Command {.\AdventOfCode2022.exe | Out-Host}
