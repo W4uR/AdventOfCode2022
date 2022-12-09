@@ -4,10 +4,10 @@ namespace AdventOfCode2022
 {
     internal class Program
     {
-        private const string INPUT_FILE = "../../../Day 6/input.txt";
+        private const string INPUT_FILE = "../../../Day 7/input.txt";
         static void Main(string[] args)
         {
-            Day_Six.PrintSolution_Part2(INPUT_FILE);
+            Day_Seven.PrintSolution_Part2(INPUT_FILE);
         }
     }
 }
